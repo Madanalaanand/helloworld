@@ -2,3 +2,6 @@
 
 def feature():
  pass
+
+def get_username():
+    pass

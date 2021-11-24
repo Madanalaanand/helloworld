@@ -3,8 +3,13 @@
 def feature():
  pass
 
+
 def login():
  pass
 
 def logout():
  pass
+
+def get_username():
+    pass
+

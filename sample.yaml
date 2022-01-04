@@ -2,5 +2,5 @@
 - hosts: all
   name: sample-ansible
   tasks: 
-    debug:
-      - msg: "ansible is working for terraform"
+    - debug:
+        msg: "ansible is working for terraform"

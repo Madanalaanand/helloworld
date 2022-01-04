@@ -3,4 +3,4 @@
   name: sample-ansible
   tasks: 
     - debug:
-        msg: "ansible is working for terraform"
+        msg: "Ansible is working form terraform"
